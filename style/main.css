@@ -16,7 +16,7 @@ body {
     color: white;
 }
 
-header .container{
+header .container-gameflix{
     display:flex;
     flex-direction: row;
     align-items: center;
@@ -104,11 +104,11 @@ div .botao a{
     margin-right: 5px;
 }
 
-.container{
+.container-gameflix{
     margin-left: 20px;
 }
 
-.jogo-principal .container{
+.jogo-principal .container-gameflix{
     width: 70%;
 }
 
